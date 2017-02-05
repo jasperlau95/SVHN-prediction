@@ -1,5 +1,4 @@
 # SVHN-prediction
-CSCI3230 NN project
 
 SVHN-prediction
 
